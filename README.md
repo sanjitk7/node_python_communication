@@ -1,6 +1,7 @@
 ## Understating Python to NodeJS Interfacing
 
 1. Creating a Python child process in nodeJS to run Python for computations - Simple Summation by using Python for computation
+2. Simple Express server and accessing endpoint with requests from python
 
 ### Why Python for computations?
 
